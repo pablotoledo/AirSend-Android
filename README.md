@@ -2,8 +2,11 @@
 TFG - AirSend Android
 
 Trabajo de Fin de Grado
+
 Pablo Toledo
+
 Grado en Ingeniería de Computadores
+
 Universidad Rey Juan Carlos
 
 # License
