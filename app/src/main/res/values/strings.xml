@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">AirSend</string>
+    <string name="action_settings">Settings</string>
+    <string name="airsendTitulo">AirSend</string>
+    <string name="cargando">Cargando...</string>
+    <string name="title_activity_menu_debug">menuDebug</string>
+    <string name="hello_world">Hola CARACOLA!</string>
+    <string name="title_activity_licencia">AirSend Licencia</string>
+    <string name="bienvenidoTitulo">Bienvenido a AirSend</string>
+    <string name="licenciaypolitica">Licencia y política de uso</string>
+    <string name="title_activity_configuracion_inicial">ConfiguracionInicial</string>
+    <string name="title_activity_instalacion">Configuración Inicial de Airsend</string>
+    <string name="confInicialAirsend">Configuración de AirSend</string>
+    <string name="textoInstalacion1">Vamos a configurar AirSend para poder usarlo:</string>
+    <string name="textoNombre">Introduce un nombre de usuario:</string>
+    <string name="seleccionImagenUsuario">Selecciona una imagen para tu usuario</string>
+    <string name="Aceptar">Aceptar</string>
+
+
+    <string-array name="image_ids">
+        <item>@drawable/cat_banjo</item>
+        <item>@drawable/cat_bd</item>
+        <item>@drawable/cat_birdhouse</item>
+        <item>@drawable/cat_box</item>
+        <item>@drawable/cat_cage</item>
+        <item>@drawable/cat_cart</item>
+        <item>@drawable/cat_clean</item>
+        <item>@drawable/cat_cupid</item>
+        <item>@drawable/cat_drink</item>
+        <item>@drawable/cat_drunk</item>
+        <item>@drawable/cat_eyes</item>
+        <item>@drawable/cat_fat</item>
+        <item>@drawable/cat_fight</item>
+        <item>@drawable/cat_fish</item>
+        <item>@drawable/cat_food</item>
+        <item>@drawable/cat_fridge</item>
+        <item>@drawable/cat_ghost</item>
+        <item>@drawable/cat_gift</item>
+        <item>@drawable/cat_grumpy</item>
+        <item>@drawable/cat_hungry</item>
+        <item>@drawable/cat_lady</item>
+        <item>@drawable/cat_laptop</item>
+        <item>@drawable/cat_laptop</item>
+        <item>@drawable/cat_makeup</item>
+        <item>@drawable/cat_mask</item>
+        <item>@drawable/cat_moustache</item>
+        <item>@drawable/cat_mummy</item>
+        <item>@drawable/cat_paper</item>
+        <item>@drawable/cat_pirate</item>
+        <item>@drawable/cat_plain</item>
+        <item>@drawable/cat_pumpkin</item>
+        <item>@drawable/cat_purr</item>
+        <item>@drawable/cat_radio</item>
+        <item>@drawable/cat_rascal</item>
+        <item>@drawable/cat_sing</item>
+        <item>@drawable/cat_sleep</item>
+        <item>@drawable/cat_slippers</item>
+        <item>@drawable/cat_smoke</item>
+        <item>@drawable/cat_tied</item>
+        <item>@drawable/cat_toilet</item>
+        <item>@drawable/cat_torture</item>
+        <item>@drawable/cat_upsidedown</item>
+        <item>@drawable/cat_vote</item>
+        <item>@drawable/cat_walk</item>
+        <item>@drawable/cat_wizard</item>
+        <item>@drawable/cat_yarn</item>
+        <item>@drawable/shadow_cat</item>
+        <item>@drawable/shadow_fly</item>
+        <item>@drawable/shadow_lady</item>
+        <item>@drawable/shadow_lion</item>
+        <item>@drawable/shadow_whale</item>
+    </string-array>
+    <string name="title_activity_menu_principal">AirSend</string>
+    <string name="listaTitulo">Lista de dispositivos disponibles:</string>
+    <string name="title_activity_enviar_datos">Enviar archivos</string>
+    <string name="preguntaEnviar">¿Deseas enviar al destino elegido lo siguiente?</string>
+    <string name="numeroArchivos">Nº de archivos:</string>
+    <string name="tamaño">Tamaño:</string>
+    <string name="ipDestino">IP de destino:</string>
+    <string name="destinatario">Destinatario:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="title_activity_recibir_datos">Solicitud entrante</string>
+    <string name="avisoEntrada">Un usuario desea enviarte algo</string>
+    <string name="Remitente">Remitente:</string>
+    <string name="ipOrigen">IP origen:</string>
+    <string name="estado">Estado:</string>
+</resources>

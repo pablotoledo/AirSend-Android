@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/build/intermediates/pre-dexed/debug/classes-a53c95ea0c3270ec550f828a4c17e21a5f4ef5f7.jar" />
+    </item>
+    <item
+        jar="/Users/pablotoledo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-c65440ea97d559443a87c761c02bc11e08d544a0.jar" />
+    </item>
+    <item
+        jar="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/build/intermediates/pre-dexed/debug/classes-dd1f06dc14498b3ae90b458304819389e6685cd2.jar" />
+    </item>
+    <item
+        jar="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-235ceeb2b63a627275ed809ebe90c290d9ff55fc.jar" />
+    </item>
+    <item
+        jar="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/pablotoledo/AndroidStudioProjects/airsendtfg-android/app/build/intermediates/pre-dexed/debug/gson-2.3.1-5057db6bb6fe47955be59736230b1d3b26d5fd20.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/gradient"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".Inicial"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imagenCentral"
+        android:src="@drawable/icono180"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/airsendTitulo"
+        android:id="@+id/titulo"
+        android:layout_below="@+id/imagenCentral"
+        android:textColor="@color/blanco"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="30sp" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spin"
+        android:indeterminate="false"
+        android:layout_below="@+id/titulo"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/blanco"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/cargando"
+        android:id="@+id/cargandoText"
+        android:layout_below="@+id/spin"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

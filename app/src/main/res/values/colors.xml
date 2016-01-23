@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fondoApp" type="color">#12171c</item>
+    <item name="blanco" type="color">#ffffff</item>
+    <item name="grisItem" type="color">#666666</item>
+    <item name="grisFondo" type="color">#393939</item>
+
+</resources>
